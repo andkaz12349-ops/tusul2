@@ -1,0 +1,505 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tom {
+  display: flex;
+  background-image: url(./tusul2\ zurag.png);
+  width: 100%;
+  height: 954px;
+  background-position: center;
+  background-size: cover;
+}
+
+.box1 {
+  width: 603px;
+  height: 20px;
+  top: 45px;
+  left: 584px;
+  gap: 40px;
+  display: flex;
+  position: absolute;
+  margin-left: 30%;
+}
+
+.button {
+  width: 91px;
+  height: 40px;
+  top: 35px;
+  left: 1227px;
+  border-radius: 5px;
+  gap: 10px;
+  background-color: #f84646;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  color: white;
+  padding: 10px;
+  margin-left: 30%;
+}
+
+.hero {
+  width: 650px;
+  margin-top: 135px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero h2 {
+  font-size: 64px;
+  line-height: 82px;
+  font-family: "manrope";
+  width: 665px;
+  height: 164px;
+  margin-top: 90px;
+  margin-left: 122px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero p {
+  width: 650px;
+  height: 99px;
+  line-height: 36px;
+  margin-top: 20px;
+  margin-left: 122px;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heroaction {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.heroaction input {
+  width: 502px;
+  height: 85px;
+  padding: 20px 32px;
+  font-size: 16px;
+  padding-right: 200px;
+  margin-left: 115px;
+}
+
+.heroaction button {
+  height: 60px;
+  padding: 13px 37px;
+  font-size: 16px;
+  line-height: 36px;
+  letter-spacing: 0.2px;
+  margin-left: -150px;
+  background-color: #f84646;
+  color: white;
+}
+
+.head2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30%;
+}
+
+.head3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.head3 h2 {
+  width: 100%;
+  height: 56px;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  padding: 10%;
+}
+
+.head3 p {
+  width: 994px;
+  height: 109px;
+  font-weight: 400;
+  font-size: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.head4 {
+  flex-wrap: wrap;
+  width: 1152px;
+  height: 508px;
+  display: flex;
+  text-align: center;
+  padding-left: 5%;
+}
+
+.zurag p {
+  width: 298px;
+  height: 84px;
+}
+
+.zurag2 p {
+  width: 298px;
+  height: 84px;
+}
+
+.zurag3 p {
+  width: 298px;
+  height: 84px;
+}
+
+.zurag4 p {
+  width: 298px;
+  height: 84px;
+}
+
+.zurag5 p {
+  width: 298px;
+  height: 84px;
+}
+
+.zurag6 p {
+  width: 298px;
+  height: 84px;
+}
+
+.tolgoi {
+  background-color: #f84646;
+  width: 100%;
+  height: 100%px;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ungu h2 {
+  width: 100%;
+  height: 64px;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 64px;
+  letter-spacing: 0%;
+  font-style: "manrope";
+  padding-top: 3%;
+}
+
+.ungu p {
+  width: 100%;
+  height: 32px;
+  font-style: "manrope";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  padding-top: 3%;
+}
+
+.ungu2 {
+  display: flex;
+  padding-left: 30%;
+  padding-top: 5%;
+}
+
+.ungu2 p {
+  width: 182px;
+  height: 62px;
+  padding-left: 1%;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 31px;
+  align-items: center;
+  padding-bottom: 10%;
+}
+
+.Yes {
+  display: flex;
+}
+
+.durak {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.durak2 h2 {
+  width: 608px;
+  height: 152px;
+  font-style: "manrope";
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 76px;
+  letter-spacing: 0%;
+  padding-top: 30%;
+  padding-left: -1%;
+  margin-left: 80%;
+}
+
+.durak2 p {
+  width: 523px;
+  height: 160px;
+  font-style: "manrope";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  padding-top: 30%;
+  padding-left: 10%;
+  margin-left: 70%;
+}
+
+.tovch {
+  background-color: #f84646;
+  width: 160px;
+  height: 48px;
+  border-radius: 8px;
+  padding: 12px;
+  color: white;
+  margin-top: 40%;
+  margin-left: 40%;
+  margin-left: 80%;
+}
+
+.durak3 {
+  width: 504px;
+  height: 480px;
+  border-radius: 8px;
+  background-image: url(./zurag2.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 30%;
+  margin-bottom: 10%;
+  margin-top: 9%;
+}
+
+.dood {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.shil {
+  background-image: url(./shilteiguy.jpg);
+  width: 504px;
+  height: 480px;
+  border-radius: 8px;
+  background-position: center;
+  background-size: cover;
+  margin-left: 22%;
+}
+
+.text h2 {
+  width: 548px;
+  height: 152px;
+  font-style: "manrope";
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 76px;
+  letter-spacing: 0%;
+  margin-left: 35%;
+}
+
+.text p {
+  width: 523px;
+  height: 160px;
+  font-style: "manrope";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  margin-left: 35%;
+  padding-top: 5%;
+}
+
+.tovch2 {
+  background-color: #f84646;
+  width: 160px;
+  height: 48px;
+  border-radius: 8px;
+  padding: 12px;
+  color: white;
+  margin-top: 20%;
+  margin-left: 35%;
+}
+
+.logo {
+  display: flex;
+  background-color: #f4f5f7;
+  margin-top: 10%;
+}
+
+.headline h2 {
+  width: 1110px;
+  height: 64px;
+  font-style: "manrope";
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: 50%;
+  margin-top: 5%;
+}
+
+.headline p {
+  width: 1110px;
+  height: 32px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: 50%;
+}
+
+.pics {
+  display: flex;
+  background-color: #f4f5f7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.photos {
+  display: flex;
+  text-align: center;
+  margin: auto;
+  margin-left: 25%;
+}
+
+.item1 {
+  margin-top: 25%;
+}
+
+.dev {
+  margin-top: 15%;
+}
+
+.dev2 {
+  margin-top: 5%;
+}
+
+.dev3 {
+  margin-top: 15%;
+}
+
+.item8 {
+  margin-top: 25%;
+}
+
+.item3 {
+  gap: 5%;
+}
+
+.bize {
+  text-align: center;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+.bize h2 {
+  width: 256px;
+  height: 32px;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 32px;
+  letter-spacing: 0px;
+  margin-left: 30%;
+}
+
+.bize p {
+  width: 645px;
+  height: 32px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 3%;
+}
+
+.tovch3 {
+  width: 204px;
+  height: 70px;
+  border-radius: 8px;
+  padding: 25px 40px 25px 40px;
+  background-color: #f84646;
+  color: white;
+  margin-top: 5%;
+}
+
+.footer {
+  background-color: #f84646;
+  display: flex;
+  margin-top: 5%;
+}
+
+.ugnud {
+  display: flex;
+  color: white;
+  margin-left: 5%;
+  margin-top: 5px;
+  width: 1440px;
+  height: 536px;
+}
+
+.text1 {
+  margin-left: 1%;
+  margin-right: 10%;
+}
+
+.text2 {
+  margin-right: 10%;
+}
+
+.text3 {
+  margin-right: 10%;
+}
+
+.text4 {
+  margin-right: 10%;
+}
+
+.text1 p {
+  margin-top: 15%;
+}
+
+.text2 p {
+  margin-top: 15%;
+}
+
+.text3 p {
+  margin-top: 15%;
+}
+
+.text4 p {
+  margin-top: 15%;
+}
+
+.copy {
+  display: flex;
+  color: white;
+  position: absolute;
+  align-self: self-end;
+  margin-left: 6%;
+  padding-bottom: 75px;
+}
+
+.zrg {
+  align-self: self-end;
+  margin-top: 15px;
+  padding-bottom: 75px;
+  display: flex;
+  gap: 20px;
+}
+.box1 svg {
+  display: none;
+}
+
+@media (max-width: 1024px) {}
+  .footer {
+    background-color: #f84646;
+  }
+  
+  .box1{
+  
+  }
